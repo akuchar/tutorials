@@ -49,8 +49,8 @@
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <structurizr.version>1.0.0-RC3</structurizr.version>
-        <structurizr-client.version>0.6.0</structurizr-client.version>
+        <structurizr.version>1.0.0</structurizr.version>
+        <structurizr-client.version>1.0.0</structurizr-client.version>
         <spring.version>4.3.8.RELEASE</spring.version>
     </properties>
 
