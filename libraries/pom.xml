@@ -918,7 +918,7 @@
 
         <httpclient.version>4.5.3</httpclient.version>
         <commons.io.version>2.5</commons.io.version>
-        <flink.version>1.5.0</flink.version>
+        <flink.version>1.6.4</flink.version>
         <jackson.version>2.8.5</jackson.version>
         <neuroph.version>2.92</neuroph.version>
         <serenity.version>1.9.26</serenity.version>
@@ -996,7 +996,7 @@
         <jaxb-api.version>2.1</jaxb-api.version>
         <bouncycastle.version>1.58</bouncycastle.version>
         <jersey.version>1.19.4</jersey.version>
-        <javalin.version>1.6.0</javalin.version>
+        <javalin.version>3.0.0</javalin.version>
         <fugue.version>4.5.1</fugue.version>
         <maven-bundle-plugin.version>3.3.0</maven-bundle-plugin.version>
         <maven-jar-plugin.version>3.0.2</maven-jar-plugin.version>
