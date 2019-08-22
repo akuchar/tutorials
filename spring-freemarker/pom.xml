@@ -48,7 +48,7 @@
     </dependencies>
 
     <properties>
-        <spring.version>4.3.4.RELEASE</spring.version>
+        <spring.version>4.3.5.RELEASE</spring.version>
         <freemarker.version>2.3.23</freemarker.version>
         <servletapi.version>3.1.0</servletapi.version>
         <failOnMissingWebXml>false</failOnMissingWebXml>
