@@ -104,7 +104,7 @@
     <properties>
         <!-- util -->
         <commons-lang3.version>3.5</commons-lang3.version>
-        <commons-codec.version>1.10</commons-codec.version>
+        <commons-codec.version>1.13</commons-codec.version>
         <!-- testing -->
         <assertj.version>3.6.1</assertj.version>
         <jmh-core.version>1.19</jmh-core.version>
