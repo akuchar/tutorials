@@ -162,7 +162,7 @@
         <h2.version>1.4.193</h2.version>
 
         <!-- various -->
-        <hibernate-validator.version>5.3.3.Final</hibernate-validator.version>
+        <hibernate-validator.version>6.0.18.Final</hibernate-validator.version>
         <javax.el-api.version>2.2.5</javax.el-api.version>
 
         <!-- util -->
