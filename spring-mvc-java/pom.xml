@@ -293,7 +293,7 @@
         <poi.version>3.16-beta1</poi.version>
 
         <!-- ROME for RSS -->
-        <rome.version>1.10.0</rome.version>
+        <rome.version>1.14.0</rome.version>
 
         <javax.el.version>2.2.4</javax.el.version>
 		
