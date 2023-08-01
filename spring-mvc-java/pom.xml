@@ -259,7 +259,7 @@
     </profiles>
 
     <properties>
-        <thymeleaf.version>3.0.9.RELEASE</thymeleaf.version>
+        <thymeleaf.version>3.1.2.RELEASE</thymeleaf.version>
 
         <!-- persistence -->
         <hibernate.version>5.2.5.Final</hibernate.version>
