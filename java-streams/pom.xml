@@ -119,7 +119,7 @@
     <properties>
         <!-- util -->
         <jmh.version>1.21</jmh.version>
-        <commons-lang3.version>3.5</commons-lang3.version>
+        <commons-lang3.version>3.18.0</commons-lang3.version>
         <lombok.version>1.16.12</lombok.version>
         <vavr.version>0.9.0</vavr.version>
         <protonpack.version>1.13</protonpack.version>
